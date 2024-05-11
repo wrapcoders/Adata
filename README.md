@@ -31,7 +31,8 @@ Here is only a small list of available features in the Adata:
 - Awesome Documentation and Support
 
 ## Documentation
-[[Documentation](https://wrapcoders.github.io/adata/documentation/documentation.html)](https://wrapcoders.github.io/adata/documentation/documentation.html)
+### [Documentation](https://wrapcoders.github.io/adata/documentation/documentation.html)
+
 
 
  
