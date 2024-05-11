@@ -1,5 +1,5 @@
 # Adata - Bootstrap Admin Dashboard Template
-Adata is the ultimate admin template for Twitter Bootstrap. It’s what we’re calling the best admin template for Bootstrap to date. It has a unique, pixel-perfect design, and many fully customized widgets. We gave special attention to design and focussed on building a versatile admin template that could work for an almost unlimited range...
+Adata is the ultimate admin template for Twitter Bootstrap. It’s what we’re calling the best admin template for Bootstrap to date. It has a unique, pixel-perfect design, and many fully customized widgets. We gave special attention to design and focussed on building a versatile admin template that could work for an almost unlimited range of applications.
 
 ## Template Features
 Here is only a small list of available features in the Adata:
@@ -31,7 +31,7 @@ Here is only a small list of available features in the Adata:
 - Awesome Documentation and Support
 
 ## Documentation
-### [Documentation](https://wrapcoders.github.io/adata/documentation/documentation.html)
+Read full documentation here: ### [Documentation](https://wrapcoders.github.io/adata/documentation/documentation.html)
 
 
 
